@@ -7,6 +7,8 @@ on:
   push: # Runs on every push to the main branch
     branches:
       - main
+  pull_request: # Runs on every push to a pull request
+    types: [opened, synchronize, reopened]
 
 jobs:
   generate:

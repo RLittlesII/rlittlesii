@@ -22,4 +22,4 @@ jobs:
         uses: actions/checkout@v3
         
       - name: generate-pacman-game-from-github-contribution-grid
-        uses: abozanona/pacman-contribution-grid@1.0.10.2
+        uses: abozanona/pacman-contribution-graph@main

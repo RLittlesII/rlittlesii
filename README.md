@@ -26,9 +26,9 @@ I strive to create maintainable, organized code while practicing the subtle magi
 ## Pac Man
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rlittlesii/rlittlesii/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rlittlesii/rlittlesii/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rlittlesii/rlittlesii/output/pacman-contribution-graph.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rlittlesii/rlittlesii/pacman/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rlittlesii/rlittlesii/pacman/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rlittlesii/rlittlesii/pacman/pacman-contribution-graph.svg">
 </picture>
 
 ### 📊 GitHub Stats

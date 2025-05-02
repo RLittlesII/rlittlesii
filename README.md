@@ -27,7 +27,6 @@ I strive to create maintainable, organized code while practicing the subtle magi
 ![auth0](https://img.shields.io/badge/-auth0-EB5424?style=flat&logo=auth0&logoColor=white)
 ![fastlane](https://img.shields.io/badge/-fastlane-00F200?style=flat&logo=fastlane&logoColor=white)
 
-
 ## Pac Man
 
 <picture>
@@ -38,13 +37,13 @@ I strive to create maintainable, organized code while practicing the subtle magi
 
 ### 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=rlittlesii&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=rlittlesii&show=discussions_started,prs_merged,prs_merged_percentage&show_icons=true&theme=nord))
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rlittlesii&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rlittlesii&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🔥 Streak Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rlittlesii&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rlittlesii&theme=nord)](https://git.io/streak-stats)
 
 ### 🤝 Connect With Me
 

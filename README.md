@@ -6,7 +6,7 @@ I strive to create maintainable, organized code while practicing the subtle magi
 
 ### 💫 About Me
 
-- 🔭 I'm currently working on **[Rx Tracker](https://github.com/RLittlesII/Rx.Tracker), [Airframe](https://github.com/rocketsurgeonsguild/airframe), and **
+- 🔭 I'm currently working on **[Rx Tracker](https://github.com/RLittlesII/Rx.Tracker)**, **[Airframe](https://github.com/rocketsurgeonsguild/airframe)**, and **[Puppy Power](https://github.com/RLittlesII/PuppyPower)**
 - 🌱 I'm learning **AI Agents, Flutter (Dart), and hopefully some F#**
 - 👯 I'm looking to collaborate on **open source projects**
 - 💬 Ask me about **MAUI, MVVM, Reactive Extensions, C#, Architectural Patterns, mobile**

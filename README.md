@@ -9,7 +9,7 @@ I strive to create maintainable, organized code while practicing the subtle magi
 - 🔭 I'm currently working on **[Rx Tracker](https://github.com/RLittlesII/Rx.Tracker)**, **[Airframe](https://github.com/rocketsurgeonsguild/airframe)**, and **[Puppy Power](https://github.com/RLittlesII/PuppyPower)**
 - 🌱 I'm learning **AI Agents, Flutter (Dart), and hopefully some F#**
 - 👯 I'm looking to collaborate on **open source projects**
-- 💬 Ask me about **MAUI, MVVM, Reactive Extensions, C#, Architectural Patterns, mobile**
+- 💬 Ask me about **MAUI, MVVM, Reactive Extensions, C#, Architectural Patterns, Mobile**
 - ⚡ Fun fact: **[Something interesting about yourself]**
 
 ### 🛠️ Tech Stack
@@ -43,7 +43,7 @@ I strive to create maintainable, organized code while practicing the subtle magi
 
 ### 🔥 Streak Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rlittlesii&theme=merko)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rlittlesii&theme=prussian)](https://git.io/streak-stats)
 
 ### 🤝 Connect With Me
 

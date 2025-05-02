@@ -7,10 +7,10 @@ I strive to create maintainable, organized code while practicing the subtle magi
 ### 💫 About Me
 
 - 🔭 I'm currently working on **[Rx Tracker](https://github.com/RLittlesII/Rx.Tracker)**, **[Airframe](https://github.com/rocketsurgeonsguild/airframe)**, and **[Puppy Power](https://github.com/RLittlesII/PuppyPower)**
-- 🌱 I'm learning **AI Agents, Flutter (Dart), and hopefully some F#**
-- 👯 I'm looking to collaborate on **open source projects**
+- 🌱 I'm learning **Flutter (Dart), Agents, and hopefully some F#**
+- 👯 I'm looking to collaborate on **whatever interests me today.**
 - 💬 Ask me about **MAUI, MVVM, Reactive Extensions, C#, Architectural Patterns, Mobile**
-- ⚡ Fun fact: **[Something interesting about yourself]**
+- ⚡ Fun fact: **Eagles can fly during thunderstorms because they're the only birds with special static-resistant feathers that let them soar above lightning without getting zapped!**
 
 ### 🛠️ Tech Stack
 

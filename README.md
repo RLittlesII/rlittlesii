@@ -6,10 +6,10 @@ I strive to create maintainable, organized code while practicing the subtle magi
 
 ### 💫 About Me
 
-- 🔭 I'm currently working on **[Your current project]**
-- 🌱 I'm learning **[Technologies you're learning]**
+- 🔭 I'm currently working on **[Rx Tracker](https://github.com/RLittlesII/Rx.Tracker), [Airframe](https://github.com/rocketsurgeonsguild/airframe), and **
+- 🌱 I'm learning **AI Agents, Flutter (Dart), and hopefully some F#**
 - 👯 I'm looking to collaborate on **open source projects**
-- 💬 Ask me about **[Your expertise areas]**
+- 💬 Ask me about **MAUI, MVVM, Reactive Extensions, C#, Architectural Patterns, mobile**
 - ⚡ Fun fact: **[Something interesting about yourself]**
 
 ### 🛠️ Tech Stack
@@ -21,7 +21,12 @@ I strive to create maintainable, organized code while practicing the subtle magi
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)
 ![F#](https://img.shields.io/badge/-F%23-378BBA?style=flat&logo=fsharp&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-<!-- Add more tech badges relevant to your skills -->
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Sqlite](https://img.shields.io/badge/-sqlite-003B57?style=flat&logo=sqlite&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-graphql-E10098?style=flat&logo=graphql&logoColor=white)
+![auth0](https://img.shields.io/badge/-auth0-EB5424?style=flat&logo=auth0&logoColor=white)
+![fastlane](https://img.shields.io/badge/-fastlane-00F200?style=flat&logo=fastlane&logoColor=white)
+
 
 ## Pac Man
 
@@ -46,6 +51,8 @@ I strive to create maintainable, organized code while practicing the subtle magi
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/YourTwitterHandle)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YourLinkedInHandle)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/rlittlesii)
+![Twitch Status](https://img.shields.io/twitch/status/rlittlesii)
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rlittlesii&color=blueviolet)
 

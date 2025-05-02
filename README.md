@@ -43,7 +43,7 @@ I strive to create maintainable, organized code while practicing the subtle magi
 
 ### 🔥 Streak Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rlittlesii&theme=nord)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rlittlesii&theme=merko)](https://git.io/streak-stats)
 
 ### 🤝 Connect With Me
 

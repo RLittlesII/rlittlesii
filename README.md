@@ -1,6 +1,6 @@
 # Rodney Littles, II
 
-## Software Engineer | Developer | Tech Enthusiast
+## Software ( Architect | Engineer | Enthusiast )
 
 I strive to create maintainable, organized code while practicing the subtle magic of reactive programming. I am seeking new approaches to old challenges, working to understand the flow of data streams.  While developing insights as I learn, I always acknowledge there's more to discover.
 

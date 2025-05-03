@@ -10,7 +10,7 @@ I strive to create maintainable, organized code while practicing the subtle magi
 - 🌱 I'm learning **Flutter (Dart), Ollama, and some F#**
 - 👯 I'm looking to collaborate on **whatever interests me today.**
 - 💬 Ask me about **MAUI, MVVM, Reactive Extensions, C#, Architectural Patterns, Mobile**
-- ⚡ Fun fact: **Eagles can fly during thunderstorms because they're feathers have special static-resistance that lets them soar through storm clouds without getting zapped!**
+- ⚡ Fun fact: **Eagles can fly during thunderstorms because their feathers have special static resistance, allowing them to soar through storm clouds without getting zapped!**
 
 ### 🛠️ Current Technologies
 

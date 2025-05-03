@@ -44,18 +44,19 @@ I strive to create maintainable, organized code while practicing the subtle magi
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=rlittlesii&show=discussions_started,prs_merged,prs_merged_percentage&show_icons=true&theme=nord))
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rlittlesii&theme=prussian)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=rlittlesii&theme=nordfox&card_width=465&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rlittlesii&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rlittlesii&theme=nord&include_all_commits=true&card_width=465&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
-### Find me on the interweb
+## Find me on the interweb
 
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/YourTwitterHandle)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YourLinkedInHandle)
+[![Twitter](https://img.shields.io/badge/-Twitter-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/YourTwitterHandle)
+[![BlueSky](https://img.shields.io/badge/-BlueSky-0285FF?style=flat&logo=BlueSky&logoColor=white)](https://twitter.com/YourTwitterHandle)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/rlittlesii)
-![Twitch Status](https://img.shields.io/twitch/status/rlittlesii)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YourLinkedInHandle)
+[![Twitch Status](https://img.shields.io/twitch/status/rlittlesii)](https://twitch.tv/rlittlesii)
+[![YouTube Channel](https://img.shields.io/youtube/channel/subscribers/UC8xELsLzih9Lu-6zpVyxbrw?style=flat&logo=youtube&logoColor=white&color=red)](https://youtube.com/@rlittlesii)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rlittlesii&color=blueviolet)
 
 ---
-⭐️ From [rlittlesii](https://github.com/rlittlesii)
